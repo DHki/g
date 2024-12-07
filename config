@@ -1,5 +1,5 @@
 [core]
-	worktree = ../git-volume
+	worktree = /var/lib/kubelet/pods/6caff5cd-7cc9-400e-9335-f72bca21e990/volumes/kubernetes.io~git-repo/git-volume
 	repositoryformatversion = 0
 	filemode = true
 	bare = false
